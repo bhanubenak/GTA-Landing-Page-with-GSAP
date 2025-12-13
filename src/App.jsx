@@ -29,6 +29,7 @@ const App = () => {
 
             <Final />
             <Outro />
+            <h4 className="bg-[rebeccapurple] h-12 mt-4 text-center text-white text-[1.1rem] font-semibold flex items-center justify-center">Made with GSAP by Bhanu Benak</h4>
         </main>
     )
 }
